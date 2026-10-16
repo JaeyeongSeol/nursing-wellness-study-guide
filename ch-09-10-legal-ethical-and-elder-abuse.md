@@ -5,6 +5,18 @@
 
 ---
 
+## Summary
+
+### Chapter 9
+
+The legal questions are competency, capacity, guardianship, advance directives, restraint, artificial feeding, and medical assistance in dying. Competency is a legal judgment about handling one’s affairs. Decision-making capacity is the ability to make one informed health decision. Partial guardianship leaves some decisions with the person. Full guardianship removes them. Trusteeship is only about money. An advance directive is written while the person is still competent and says what care they would or would not want later. On the slides, the working examples are MOST and a representation agreement or living will. Nursing-home rights in Canada are mostly provincial, and the recurring ethical tension is safety versus freedom. A physical restraint is anything that stops free movement of the arms, legs, body, or head. Restraints are linked to fractures, delirium, injury, and death, and they limit dignity. Artificial nutrition and hydration bypasses the upper gut, by PEG, jejunostomy, NG tube, TPN, or subcutaneous fluid. Bill C-14, in force in June 2016, allows medical assistance in dying in limited circumstances and in only two forms. The slides do not name those forms or the eligibility checklist. A registered nurse may only aid a physician or nurse practitioner and may not prescribe, mix, dispense, or give the substance. The nurse’s everyday role is to support advance care planning, carry out directives, help with decisions, and look after caregiver wellness.
+
+### Chapter 10
+
+Senior abuse is harm done by someone the older adult knows and would normally trust. Learn the definitions that are written out: physical abuse is pain, injury, or withholding a basic need. Sexual abuse is any nonconsensual sexual contact, including being forced to watch. Exploitation is illegally taking or hiding money or property. Neglect is failure by the responsible person to provide food, shelter, health care, or protection. Emotional abuse is shown through control, humiliation, and fear rather than given as a one-sentence definition. Spiritual abuse denies prayer, diet, or religious body care. Abandonment and self-neglect are named only. Perpetrator risks are mental illness, alcoholism, hostility, and financial dependence on the victim. Victim risks are dementia, difficult behaviour, disability, physical or financial dependence, shared housing, and isolation. People stay silent from shame, fear, loyalty, or inability to speak. Staff stay silent from fear of revenge or job loss and from not knowing the law. Nurses report suspicion. They do not have to prove it. Reports are usually investigated within 24 to 72 hours, and a good-faith report is protected. BCCNM’s duty to report comes from the Health Professions Act.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |

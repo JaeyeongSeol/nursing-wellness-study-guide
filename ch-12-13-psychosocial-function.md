@@ -5,6 +5,18 @@
 
 ---
 
+## Summary
+
+### Chapter 12
+
+Psychosocial health covers cognition and affect. Cognition is thinking and reasoning, and its impairments include delirium and dementia. Affect is life inside the self and with other people, and its impairments include depression, psychiatric illness, and losing touch with reality. Later life brings major events: retirement, moving, chronic illness, widowhood, deaths of friends and family, ageist attitudes, and lost autonomy such as driving. Stress is the sum of everything acting on the body, pleasant or not, and it moves through alarm, resistance, and exhaustion. Stress runs high when health, function, money, supports, or coping skills are poor, or when several hassles and life events pile up. Coping is either problem-focused or emotion-focused, for example seeking information, reframing, exercise, or asking for reassurance. Resilience is the ability to recover and to use the wisdom gained from adversity. It is tied to spirituality, hope, and meaning, and the nurse’s role is to support it. Spirituality usually becomes broader and more personal with age and is linked with better health. Culture shapes how psychosocial health is understood. Health literacy, the ability to listen, speak one’s needs, and act on written instructions, is not proficient for 6 in 10 adult Canadians, especially immigrants.
+
+### Chapter 13
+
+Assessment looks at mental status, appearance, movement, social skill, decision-making, mood, contact with reality, supports, and religion. The MMSE covers five areas: orientation, attention, memory, language, and spatial-visual skills. A delusion is a fixed false belief. A hallucination is a sensation with nothing outside causing it. An illusion is a misreading of something that is really there. Withdrawal and gestures toward empty space can signal hallucinations. Nursing diagnoses include low self-esteem, powerlessness, social isolation, and ineffective coping, and also readiness to strengthen coping, resilience, or spiritual well-being. Interventions protect dignity, avoid elderspeak, give real choices, restore meaningful roles, invite reminiscence, build supports, and address spiritual needs. The work has helped if the person reports a better view of self, takes part in decisions, feels some control, and uses effective coping.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |

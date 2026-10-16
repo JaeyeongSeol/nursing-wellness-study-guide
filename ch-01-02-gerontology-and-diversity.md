@@ -7,6 +7,18 @@ Slide content is the exam source. Textbook notes are only where the book adds de
 
 ---
 
+## Summary
+
+### Chapter 1
+
+Aging is a normal process with physical, psychological, and social changes, and it includes both losses and gains. Four ways of talking about age stay separate: subjective age is how old the person feels, perceived age is how old other people think they are, chronologic age is time since birth, and functional age combines health, psychological well-being, socioeconomic factors, and the ability to take part in desired activities. Ageism is a negative attitude toward aging and older people. Institutional ageism sits in unquestioned cultural assumptions and in policy. In health care it leads to less aggressive treatment, because symptoms are dismissed as “just aging” even when they can be treated. Nursing students counteract it by noticing their own bias, spending positive time with older adults, and correcting misconceptions. Gerontology is the holistic study of aging. Geriatrics is the medical care of older people’s diseases, and it has shifted from curing toward caring and quality of life. This knowledge is core for every nurse, because most nurses care for older people and this work is the fastest-growing part of health care.
+
+### Chapter 2
+
+Cultural care moves along a continuum: awareness of your values and the client’s, sensitivity that differences exist, recognition that customs differ, and competence, which is enough knowledge to interact with respect. Cultural safety is not the nurse’s skill. It is the client’s experience of an environment where identity is not denied. About 20% of Canadians identify as a visible minority, two-thirds of whom immigrated. The largest older-adult groups on the slides are South Asian, Chinese, Southeast Asian, and Canadian Indigenous peoples. Health patterns differ: cultural barriers for South Asian older adults, language and culture more than poor health for Chinese older adults, and higher cervical cancer, type 2 diabetes, or war-related poor health in some Southeast Asian groups. Indigenous peoples in Canada are mostly First Nations, then Métis, then Inuit, and only about 6% are over 65. Shorter life expectancy is linked to unemployment, poor housing, and social issues. Cultural generalizations can help, but they cannot replace assessment of the individual person.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |

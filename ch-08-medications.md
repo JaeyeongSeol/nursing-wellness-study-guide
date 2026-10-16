@@ -5,6 +5,14 @@
 
 ---
 
+## Summary
+
+### Chapter 8
+
+Pharmacokinetics is what the body does to a drug: absorption, distribution, metabolism, and excretion. Pharmacodynamics is what the drug does to the body at the cell and the target organ. The half-life is the time for the concentration to fall by half, and it takes five half-lives to reach a steady level or to clear the drug after it is stopped. Most oral drugs are absorbed in the small intestine. Aging changes absorption through less stomach acid, a higher gastric pH, slower emptying, and food. Drug action also changes because kidney filtration falls, liver blood flow falls, muscle and body water fall, albumin is often low, and receptors respond differently. Whether the person actually takes the drug depends on motivation, knowledge, culture, the ability to open the container and swallow, and skill with other routes. Polypharmacy is not a pill count. It means more drugs than are clinically needed, judged by whether the combination is appropriate and whether benefit outweighs risk. Older adults feel side effects more strongly. Risk climbs with many drugs, poor nutrition or dehydration, several diseases, heart, kidney, or liver illness, cognitive impairment, past reactions, fever, and a recent change in health. Anticoagulants, antidiabetics, NSAIDs, and CNS drugs need extra caution. Anticholinergics block acetylcholine, worsen cognition over time, and can cancel dementia drugs called cholinesterase inhibitors. The Beers list names drugs that raise delirium and other adverse effects. Avoid them unless benefit is clearly greater, and then use them briefly. Antipsychotics are used often in long-term care. Tardive dyskinesia can start months later and continue after the drug stops. Drug-induced parkinsonism can be mistaken for Parkinson disease and can reverse if the drug is stopped. The nurse reviews every prescription, PRN drug, supplement, herb, and substance, reconciles the list at every transition, and pushes for fewer drugs, clearer teaching, and help from pharmacy, home care, or social work when needed.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |

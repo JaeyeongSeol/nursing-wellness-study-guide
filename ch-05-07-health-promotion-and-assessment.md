@@ -5,6 +5,22 @@
 
 ---
 
+## Summary
+
+### Chapter 5
+
+Care of older adults is organized around three ideas. Age-related changes happen to everyone. They are inevitable, progressive, and irreversible, physically degenerative, and they increase vulnerability, though psychological and spiritual growth is still possible. Risk factors are extra conditions that increase vulnerability, such as disease, environment, lifestyle, supports, psychosocial circumstances, medication effects, and attitudes based on lack of knowledge. Functional consequences are the visible results of those changes, risks, and actions on daily life. Positive consequences support the highest function and the least dependency. Negative ones interfere with function or quality of life. The nurse assesses all three, then addresses risks, teaches health promotion, and refers. Health promotion itself is prevention and screening, risk reduction, environmental changes, and health education. Gerontology on this deck focuses on healthy aging and diversity. Geriatrics focuses on medical problems, with the shift from curing to caring.
+
+### Chapter 6
+
+Older adults meet nurses in the community, at home, in a nursing home, and in hospital. Community care is health promotion, respite, and adult day programs, and the nurse educates and refers. Home care aims at rehabilitation and includes meals, personal care, errands, and light housekeeping. The nurse also assesses, plans, and gives hands-on care. A nursing home is for someone who needs 24-hour help with activities of daily living. The nurse keeps those same duties and adds continuous on-site responsibility and work with other professions. The slides do not say that functional decline is worst in one building. They say it happens because of transitions in care, when information, teaching, medication lists, language, culture, or staffing break down.
+
+### Chapter 7
+
+Assessment happens in whatever setting the person lives in, and it is complicated because problems overlap, illness looks atypical, one change can have many causes, treatment often chases symptoms, cognitive loss affects the history, and treatable problems get blamed on normal aging. Tools exist to find what belongs on the care plan. They should be evidence-based and easy to use. Physical assessment starts with the history, then a head-to-toe look and vital signs, including orthostatic hypotension. Functional assessment measures self-care and responsibilities: activities of daily living, instrumental activities, how much help is needed, senses, and baseline thinking. Named tools include KATZ and the 48/6 screen for adults 70 and older in the first 48 hours. Mental status tools named here are CAM, MMSE, and the Geriatric Depression Scale. Comprehensive tools are SPICES and the Minimum Data Set. Safety tools are a fall-risk assessment and the Braden Scale. An interview stays under 30 minutes, uses the person’s formal name, avoids jargon, and is set up for noise, light, comfort, privacy, and modesty.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |

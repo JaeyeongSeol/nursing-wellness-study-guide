@@ -7,6 +7,16 @@ The three Ds named on Slide 3 are delirium, dementia, and depression. Depression
 
 ---
 
+## Summary
+
+### Chapter 14
+
+Delirium, dementia, and depression are the three Ds. This deck covers the first two. Delirium is acute confusion: a sudden, temporary change in thinking, attention, memory, and perception. It develops in hours to days, the symptoms fluctuate, and it is preventable and treatable. It is a medical emergency. It brings longer hospital stays, more moves into long-term care, functional loss, and new or worse dementia. It can look hyperactive, with agitation and hallucinations, or hypoactive, with lethargy, or it can switch between the two. The cause is described as unknown, likely a neurotransmitter problem with many contributing factors. The Confusion Assessment Method diagnoses it when features 1 and 2 are both present and either 3 or 4 is also present: sudden or fluctuating onset, inattention, disorganized thinking, and an altered level of consciousness. Routine drug treatment is not recommended. The exception is benzodiazepines or similar drugs for delirium from alcohol withdrawal. Other care is finding the reversible cause, keeping the person safe, and adjusting the environment and communication. The slide names predisposing and precipitating risks but does not list them. The textbook lists advanced age, dementia, depression, dependency, and number of medications as predisposing, and surgery, infection, serious illness, and restraints as precipitating.
+
+Dementia is an irreversible loss of cognitive function from damage to nerve cells and their connections. It develops over months to years, progresses, and is terminal. Nursing care focuses on safety, caregiver strain, and quality of life. The named features are aphasia, apraxia, agnosia, and disturbed executive function. The types on the slide are Alzheimer disease, which accounts for 60 to 80 percent, vascular dementia, Lewy body dementia, and frontotemporal dementia. Alzheimer disease has specific medications. Vascular dementia can be approached through the underlying heart and vessel problems. People with dementia remain individuals. In hospital, the illness, the strange place, unfamiliar staff, and broken routines all make behaviour worse. Pain may have to be read from breathing, sounds, face, and whether the person can be consoled.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |

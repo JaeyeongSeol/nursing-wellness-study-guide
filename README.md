@@ -4,7 +4,7 @@ Built from the student lecture slides (main source) and *Miller’s Nursing for 
 
 Exam format practiced here: **multiple choice** and **short answer**.
 
-Start with [SUMMARY.md](SUMMARY.md) the day before the exam. Use the chapter files when you need the full definition, the slide number, or the practice questions.
+Start with [SUMMARY.md](SUMMARY.md) the day before the exam. Each chapter file also opens with a short summary, placed before the definitions. Use the rest of the file for the exact wording, the slide number, and the practice questions.
 
 | Unit | Topic | File |
 | ---- | ----- | ---- |

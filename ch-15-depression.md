@@ -7,6 +7,14 @@ This is the third of the three Ds from the Chapter 14 deck (delirium, dementia, 
 
 ---
 
+## Summary
+
+### Chapter 15
+
+Depression is clinically the same illness at every age, but older adults show it differently and are more often missed. They are less likely to say they feel depressed, more likely to have it alongside other diseases, and more likely to suffer serious consequences. Compared with younger adults, they show more thinking and body symptoms than emotional ones: apathy, emptiness, withdrawal, too much sleep or early waking, loss of appetite, and weight loss. They talk about suicide less, but attempts are more likely and more violent. Risk rises with being female, a personal or family history, grief, loneliness, lost roles and supports, abuse, and caregiving, including raising a grandchild. Illness and disability work both ways with depression. Pain worsens depression and depression worsens pain. A medication can cause a depression that lifts when the drug is stopped, and alcohol and depression feed each other. The Geriatric Depression Scale takes 5 to 7 minutes and can be used even when cognition is impaired. Care starts by reducing those risks, then rebuilding control and social contact, activity, nutrition, counselling, and referral. SSRIs are first-line because they block serotonin reuptake and are relatively safe. SNRIs raise serotonin and norepinephrine. Both can cause hyponatremia. Start low and go slow, because the effect can take weeks. Amitriptyline, doxepine, and fluoxetine are the drugs the slide says not to use in older adults. Tricyclics are not first-line because of heart rhythm problems, falls from low blood pressure, anticholinergic effects, and deadly overdose. MAO inhibitors are rarely used. St John’s wort may help mild depression but interacts with antidepressants, digoxin, and anticoagulants. ECT, the electrical induction of a seizure, is the fastest effective treatment for severe depression in older adults when medicines fail or are unsafe. If the person has a detailed suicide plan and access to the means, the risk is high and action is immediate.
+
+---
+
 ## 1. Key definitions
 
 | Term | Definition (wording from the slides) | Slide # | Textbook note |
