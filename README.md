@@ -4,6 +4,8 @@ Built from the student lecture slides (main source) and *Miller’s Nursing for 
 
 Exam format practiced here: **multiple choice** and **short answer**.
 
+Start with [SUMMARY.md](SUMMARY.md) the day before the exam. Use the chapter files when you need the full definition, the slide number, or the practice questions.
+
 | Unit | Topic | File |
 | ---- | ----- | ---- |
 | Chapters 1–2 | Gerontology, ageism, and cultural diversity | [ch-01-02-gerontology-and-diversity.md](ch-01-02-gerontology-and-diversity.md) |
